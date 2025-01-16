@@ -94,14 +94,14 @@ Olá, sou Matheus Otenio, estudante de Engenharia da Computação na UTFPR. Ao l
   <img 
     alt="GitHub Stats" 
     height="180px" 
-    src="https://github-readme-stats.vercel.app/api?username=MatheusOtenio&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true&include_all_commits=true&custom_title=Desempenho no GitHub" 
+    src="https://github-readme-stats.vercel.app/api?username=MatheusOtenio&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true&include_all_commits=true&custom_title=Desempenho no GitHub&cache_seconds=1800" 
   />
 
   <!-- Gráfico de contribuições de 2025 -->
   <img 
     alt="Contribuições 2025" 
     height="180px" 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusOtenio&theme=tokyo-night&hide_border=true&area=true&title=Contribuições em 2025"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusOtenio&theme=tokyo-night&hide_border=false&area=true"
   />
 </p>
 
@@ -126,6 +126,6 @@ Olá, sou Matheus Otenio, estudante de Engenharia da Computação na UTFPR. Ao l
   <img 
     alt="Top Linguagens" 
     height="180px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOtenio&layout=compact&theme=tokyonight&langs_count=6&hide=Assembly&custom_title=Linguagens Mais Usadas" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOtenio&layout=compact&theme=tokyonight&langs_count=6&hide=Assembly&custom_title=Linguagens Mais Usadas&cache_seconds=1800" 
   />
 </p>
