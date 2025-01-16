@@ -87,26 +87,6 @@ Olá, sou Matheus Otenio, estudante de Engenharia da Computação na UTFPR. Ao l
 <br/>
 <br/>
 
-### 📊 Minhas Estatísticas
-
-<p align="center">
-  <!-- Estatísticas gerais do GitHub -->
-  <img 
-    alt="GitHub Stats" 
-    height="180px" 
-    src="https://github-readme-stats.vercel.app/api?username=MatheusOtenio&show_icons=true&theme=tokyonight&hide=prs,issues&count_private=true&include_all_commits=true&custom_title=Desempenho no GitHub&cache_seconds=1800" 
-  />
-
-  <!-- Gráfico de contribuições de 2025 -->
-  <img 
-    alt="Contribuições 2025" 
-    height="180px" 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusOtenio&theme=tokyo-night&hide_border=false&area=true"
-  />
-</p>
-
----
-
 ### 🏆 Conquistas
 
 <p align="center">
@@ -114,18 +94,5 @@ Olá, sou Matheus Otenio, estudante de Engenharia da Computação na UTFPR. Ao l
   <img 
     src="https://github-profile-trophy.vercel.app/?username=MatheusOtenio&theme=tokyonight&column=4&margin-w=10&margin-h=15&no-frame=true&title=Commit,Repositories,Stars,MultiLanguage" 
     alt="Troféus do GitHub" 
-  />
-</p>
-
----
-
-### 🔥 Atividades Recentes
-
-<p align="center">
-  <!-- Linguagens principais usadas -->
-  <img 
-    alt="Top Linguagens" 
-    height="180px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOtenio&layout=compact&theme=tokyonight&langs_count=6&hide=Assembly&custom_title=Linguagens Mais Usadas&cache_seconds=1800" 
   />
 </p>
