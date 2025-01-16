@@ -4,27 +4,6 @@
 
 Olá, sou Matheus Otenio, estudante de Engenharia da Computação na UTFPR. Ao longo da minha trajetória acadêmica, aprofundei conhecimentos em programação, com experiência em linguagens como C, Python, Java, HTML, CSS, SQL e Assembly. Participo de projetos de extensão que me ajudaram a desenvolver habilidades em comunicação, trabalho em equipe e solução de problemas. Além disso, tenho interesse em áreas como IoT, Web Design, Banco de Dados e Programação Orientada a Objetos.
 
----
-
-<p align="left">
-    <a href="https://github.com/MatheusOtenio?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/MatheusOtenio?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/MatheusOtenio?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/MatheusOtenio?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
-
 ### 💻 Linguagens e Tecnologias
 
 <img 
