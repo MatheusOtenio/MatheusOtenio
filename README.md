@@ -84,9 +84,8 @@ Olá, sou Matheus Otenio, estudante de Engenharia da Computação na UTFPR. Ao l
     title="Assembly"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/assembly/assembly-original.svg" 
+    src="https://cdn.jsdelivr.net/npm/devicons@2.2.0/devicon/devicon-original-wordmark.svg" 
 />
-
 
 <br/>
 <br/>
