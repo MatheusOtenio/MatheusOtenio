@@ -6,6 +6,7 @@ Olá, sou Matheus Otenio, estudante de Engenharia da Computação na UTFPR. Ao l
 
 ### 💻 Linguagens e Tecnologias
 
+
 <div style="display: flex; flex-wrap: wrap; gap: 10px; max-width: 140px;">
     <img 
         align="left" 
