@@ -27,6 +27,8 @@ Olá, sou Matheus Otenio, estudante de Engenharia da Computação na UTFPR. Ao l
 
 ### 
 <img align="left" alt="Assembly" title="Assembly" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" />
+<img align="left" alt="TypeScript" title="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="React.js" title="React.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 
 
 
