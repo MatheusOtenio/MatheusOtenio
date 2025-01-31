@@ -9,6 +9,7 @@ Olá, sou Matheus Otenio, estudante de Engenharia da Computação na UTFPR. Ao l
 
 # Tecnologias que utilizo
 
+
 ###
 <img align="left" alt="C" title="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
