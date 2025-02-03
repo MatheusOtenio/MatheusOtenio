@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia da Computação`**
 
-Olá, sou Matheus Otenio, estudante de Engenharia da Computação na UTFPR. Ao longo da minha trajetória acadêmica, aprofundei conhecimentos em programação, com experiência em linguagens como C, Python, Java, HTML, CSS, SQL e Assembly. Participo de projetos de extensão que me ajudaram a desenvolver habilidades em comunicação, trabalho em equipe e solução de problemas. Além disso, tenho interesse em áreas como IoT, Web Design, Banco de Dados e Programação Orientada a Objetos.
+Olá, sou Matheus Otenio, estudante de Engenharia da Computação na UTFPR. Ao longo da minha trajetória acadêmica, aprofundei conhecimentos em programação, com experiência em linguagens como C, Python, Java, HTML, CSS, JavaScript, TypeScript, SQL e Assembly. Participo de projetos de extensão que me ajudaram a desenvolver habilidades em comunicação, trabalho em equipe e solução de problemas. Além disso, tenho interesse em áreas como IoT, Web Design, Banco de Dados e Programação Orientada a Objetos.
 
 ### 💻 Linguagens e Tecnologias
 
