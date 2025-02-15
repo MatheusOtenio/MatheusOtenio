@@ -38,7 +38,6 @@ Olá, sou Matheus Otenio, estudante de Engenharia da Computação na UTFPR. Ao l
 <img align="left" alt="Arduino" title="Arduino" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
 <img align="left" alt="SQL" title="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
-<br/><br/>
 
 
 
