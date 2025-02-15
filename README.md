@@ -3,10 +3,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=62F729&background=24975C00&center=true&width=435&lines=%E2%82%8A+%CB%9A%E2%82%8A+%E2%9A%9CMatheus+Otenio%E2%9A%9C+%CB%9A+%E2%82%8A%CB%9A;%E2%8B%86%EF%BD%A1%EF%BE%9F%E2%98%81%EF%B8%8E%EF%BD%A1Computer+Engineer%E2%8B%86%EF%BD%A1%E2%98%81%EF%B8%8E%EF%BD%A1%E2%8B%86;%E2%96%91%E2%96%92%E2%96%93Full+Stack+Developer%E2%96%93%E2%96%92%E2%96%91" alt="Typing SVG" />
   </a>
 </div>
-
+    
+<br/><br/>
 ###
 
 Olá, meu nome é Matheus Otenio. Sou engenheiro da computação e desenvolvedor full stack, com forte interesse em inteligência artificial e desenvolvimento de sistemas. Busco constantemente aprender e inovar, explorando novas tecnologias e metodologias para criar soluções eficientes. Meu foco é desenvolver códigos que equilibrem as necessidades dos usuários e os objetivos estratégicos da empresa.
+
+<br/><br/>
 
 <div align="center">
   <table>
