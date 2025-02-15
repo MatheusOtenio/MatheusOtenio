@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/kXbKXha.jpg" width="100%" />
-</p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
