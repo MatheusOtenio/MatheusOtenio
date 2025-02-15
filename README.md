@@ -50,4 +50,7 @@ Olá, sou Matheus Otenio, estudante de Engenharia da Computação na UTFPR. Ao l
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOtenio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+<img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusOtenio&theme=tokyonight" 
+/>
 
