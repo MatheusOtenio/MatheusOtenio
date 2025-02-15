@@ -4,21 +4,20 @@
   </a>
 </div>
 
-
+###
 
 Olá, sou Matheus Otenio, estudante de Engenharia da Computação na UTFPR. Ao longo da minha trajetória acadêmica, aprofundei conhecimentos em programação, com experiência em linguagens como C, Python, Java, HTML, CSS, JavaScript, TypeScript, SQL e Assembly. Participo de projetos de extensão que me ajudaram a desenvolver habilidades em comunicação, trabalho em equipe e solução de problemas. Além disso, tenho interesse em áreas como IoT, Web Design, Banco de Dados e Programação Orientada a Objetos.
 
 ### 💻 Linguagens e Tecnologias
 
 
-# Tecnologias que utilizo
 
 
 ###
 <img align="left" alt="C" title="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img align="left" alt="C#" title="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 <img align="left" alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="SQL" title="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
 <br/>
 
@@ -36,6 +35,12 @@ Olá, sou Matheus Otenio, estudante de Engenharia da Computação na UTFPR. Ao l
 <img align="left" alt="React.js" title="React.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="left" alt="Next.js" title="Next.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 
+<br/>
+
+### 
+<img align="left" alt=".NET" title=".NET" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+<img align="left" alt="Arduino" title="Arduino" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+<img align="left" alt="SQL" title="SQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
 
 <br/>
