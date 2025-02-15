@@ -1,4 +1,6 @@
-<div align="center" style="background-image: url('https://imgur.com/a/ekWyESJ'); background-size: cover; padding: 20px;">
+<p align="center">
+  <img src="https://i.imgur.com/kXbKXha.jpg" width="100%" />
+</p>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -44,5 +46,4 @@ Olá, meu nome é Matheus Otenio. Sou engenheiro da computação e desenvolvedor
       </td>
     </tr>
   </table>
-</div>
 </div>
