@@ -44,6 +44,3 @@ Olá, meu nome é Matheus Otenio. Sou engenheiro da computação e desenvolvedor
   </table>
 </div>
 
-🔗 [Background](https://illustrious-haupia-002bed.netlify.app/)
-
-
