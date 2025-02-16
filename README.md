@@ -13,7 +13,7 @@ Olá, meu nome é Matheus Otenio. Sou engenheiro da computação e desenvolvedor
 <br/><br/>
 
 <div>
-  <h3>💻 Linguagens que estou aprendendo</h3>
+  <h3>##💻 Linguagens que estou aprendendo</h3>
   
   <div>
     <img align="left" alt="C" title="C" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
