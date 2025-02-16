@@ -49,13 +49,6 @@ Olá, meu nome é Matheus Otenio. Sou engenheiro da computação e desenvolvedor
     <img align="left" alt="Figma" title="Figma" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
     <img align="left" alt="LinkedIn" title="LinkedIn" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
     <img align="left" alt="Blender" title="Blender" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-    <img align="left" alt="Tableau" title="Tableau" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" />
-    <img align="left" alt="StarUML" title="StarUML" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/StarUML_Logo.png" />
-    <img align="left" alt="LibreOffice Writer" title="LibreOffice Writer" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/LibreOffice_7.0_Writer_Icon.svg" />
-    <img align="left" alt="LibreOffice Calc" title="LibreOffice Calc" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/4/43/LibreOffice_7.0_Calc_Icon.svg" />
-    <img align="left" alt="Notion" title="Notion" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" />
-    <img align="left" alt="FreeCAD" title="FreeCAD" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/FreeCAD-logo.svg" />
-
   </div>
   
   
