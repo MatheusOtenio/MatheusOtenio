@@ -13,7 +13,7 @@ Olá, meu nome é Matheus Otenio. Sou engenheiro da computação e desenvolvedor
 <br/><br/>
 
 <div>
-  ##💻 Linguagens que estou aprendendo
+  ## 💻 Linguagens que estou aprendendo:
   
   <div>
     <img align="left" alt="C" title="C" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -37,7 +37,7 @@ Olá, meu nome é Matheus Otenio. Sou engenheiro da computação e desenvolvedor
   
   <br/><br/><br/>
 
-  <h3>🗃️ Aplicativos que uso</h3>
+ ## 🗃️ Aplicativos que uso:
   
   <div>
     <img align="left" alt="VS Code" title="VS Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -49,7 +49,7 @@ Olá, meu nome é Matheus Otenio. Sou engenheiro da computação e desenvolvedor
   
   <br/><br/><br/>
   
-  <h3>📊 Estatísticas</h3>
+ ## 📊 Estatísticas
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOtenio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </div>
 
