@@ -31,9 +31,11 @@ Olá, meu nome é Matheus Otenio. Sou engenheiro da computação e desenvolvedor
     <img align="left" alt="Next.js" title="Next.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
     <img align="left" alt="Assembly" title="Assembly" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" />
     <img align="left" alt=".NET" title=".NET" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+    <img align="left" alt="TensorFlow" title="TensorFlow" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
     <img align="left" alt="Arduino" title="Arduino" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
     <img align="left" alt="SQL" title="SQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img align="left" alt="PostgreSQL" title="PostgreSQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+    <img align="left" alt="Tailwind CSS" title="Tailwind CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   </div>
   
   <br/><br/><br/>
@@ -49,7 +51,11 @@ Olá, meu nome é Matheus Otenio. Sou engenheiro da computação e desenvolvedor
     <img align="left" alt="Windows" title="Windows" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
     <img align="left" alt="Figma" title="Figma" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
     <img align="left" alt="LinkedIn" title="LinkedIn" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    <img align="left" alt="Canva" title="Canva" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+    <img align="left" alt="Android" title="Android" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain-wordmark.svg" />
     <img align="left" alt="Blender" title="Blender" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
+    <img align="left" alt="Unreal Engine" title="Unreal Engine" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />
+    <img align="left" alt="Unity" title="Unity" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
   </div>
   
   
