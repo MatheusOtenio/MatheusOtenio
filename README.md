@@ -46,15 +46,16 @@ Olá, meu nome é Matheus Otenio. Sou engenheiro da computação e desenvolvedor
     <img align="left" alt="GitHub" title="GitHub" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
     <img align="left" alt="Linux" title="Linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img align="left" alt="Windows" title="Windows" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-    <img align="left" alt="Power BI" title="Power BI" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" />
     <img align="left" alt="Figma" title="Figma" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    <img align="left" alt="Umbrello" title="Umbrello" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Umbrello_logo.svg/35px-Umbrello_logo.svg.png" />
     <img align="left" alt="LinkedIn" title="LinkedIn" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-    <img align="left" alt="Word" title="Word" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Microsoft_Office_Word_%282019%E2%80%93present%29.svg/35px-Microsoft_Office_Word_%282019%E2%80%93present%29.svg.png" />
-    <img align="left" alt="Excel" title="Excel" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/35px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" />
-    <img align="left" alt="ClickUp" title="ClickUp" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ClickUp-Logo.svg/35px-ClickUp-Logo.svg.png" />
     <img align="left" alt="Blender" title="Blender" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" />
-    <img align="left" alt="AutoCAD" title="AutoCAD" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Autodesk_AutoCAD_Logo.svg/35px-Autodesk_AutoCAD_Logo.svg.png" />
+    <img align="left" alt="Tableau" title="Tableau" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" />
+    <img align="left" alt="StarUML" title="StarUML" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/StarUML_Logo.png" />
+    <img align="left" alt="LibreOffice Writer" title="LibreOffice Writer" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/LibreOffice_7.0_Writer_Icon.svg" />
+    <img align="left" alt="LibreOffice Calc" title="LibreOffice Calc" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/4/43/LibreOffice_7.0_Calc_Icon.svg" />
+    <img align="left" alt="Notion" title="Notion" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" />
+    <img align="left" alt="FreeCAD" title="FreeCAD" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/3/3a/FreeCAD-logo.svg" />
+
   </div>
   
   
