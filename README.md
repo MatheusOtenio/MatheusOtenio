@@ -12,8 +12,7 @@ Olá, meu nome é Matheus Otenio. Sou engenheiro da computação e desenvolvedor
 
 <br/><br/>
 
-<div align="center">
-  <h3>💻 Linguagens e Tecnologias</h3>
+  💻 Linguagens e Tecnologias</h3>
   
   <img align="left" alt="C" title="C" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="left" alt="C#" title="C#" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -37,7 +36,7 @@ Olá, meu nome é Matheus Otenio. Sou engenheiro da computação e desenvolvedor
 
   <br/><br/><br/>
 
-  <h3>📊 Estatísticas</h3>
+📊 Estatísticas
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOtenio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </div>
 
