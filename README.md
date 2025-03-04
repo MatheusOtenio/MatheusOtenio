@@ -39,7 +39,7 @@ Olá, meu nome é Matheus Otenio. Sou engenheiro da computação e desenvolvedor
   
   <br/><br/><br/>
 
- ## 🗃️ Aplicativos que uso:
+ ## 🗃️ Softwares que uso:
   
   <div>
     <img align="left" alt="VisualStudio" title="VisualStudio" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
