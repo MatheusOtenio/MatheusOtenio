@@ -42,6 +42,7 @@ Olá, meu nome é Matheus Otenio. Sou engenheiro da computação e desenvolvedor
  ## 🗃️ Aplicativos que uso:
   
   <div>
+    <img align="left" alt="VisualStudio" title="VisualStudio" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
     <img align="left" alt="VS Code" title="VS Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img align="left" alt="Rider" title="Rider" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" />  
     <img align="left" alt="Git" title="Git" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -49,7 +50,6 @@ Olá, meu nome é Matheus Otenio. Sou engenheiro da computação e desenvolvedor
     <img align="left" alt="Linux" title="Linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img align="left" alt="Windows" title="Windows" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
     <img align="left" alt="Figma" title="Figma" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    <img align="left" alt="LinkedIn" title="LinkedIn" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
     <img align="left" alt="Canva" title="Canva" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
 
   </div>
