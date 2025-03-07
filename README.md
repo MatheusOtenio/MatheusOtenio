@@ -58,7 +58,6 @@ Olá, meu nome é Matheus Otenio. Sou engenheiro da computação e desenvolvedor
   
  ## 📊 Estatísticas
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOtenio&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8&hide=html,jupyter%20notebook" />
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusOtenio&theme=dark&show_icons=true&hide_title=true)
 
 </div>
 
