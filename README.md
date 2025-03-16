@@ -19,7 +19,7 @@ Olá, meu nome é Matheus Otenio. Sou engenheiro da computação e desenvolvedor
 
 <div>
   
-## 💻 Linguagens/Frameworks que estou aprendendo:
+## 💻 Linguagens/Frameworks que Trabalho:
   
   <div>
     <img align="left" alt="Python" title="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -39,7 +39,7 @@ Olá, meu nome é Matheus Otenio. Sou engenheiro da computação e desenvolvedor
   
   <br/><br/><br/>
 
- ## 🗃️ Softwares que uso:
+ ## 🗃️ Softwares/Serviços que Uso:
   
   <div>
     <img align="left" alt="VisualStudio" title="VisualStudio" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
