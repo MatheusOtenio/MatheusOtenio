@@ -57,9 +57,8 @@ Olá, meu nome é Matheus Otenio. Sou engenheiro da computação e desenvolvedor
   <br/><br/><br/>
   
  ## 📊 Estatísticas
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOtenio&layout=compact&custom_title=Tecnologias&langs_count=8&theme=great-gatsby&hide=html"/>
-  <img height="170em" src="https://awesome-github-stats.azurewebsites.net/user-stats/MatheusOtenio?cardType=github&theme=great-gatsby"/>
-
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOtenio&layout=compact&custom_title=Tecnologias&langs_count=8&theme=great-gatsby&hide=html,jupyter%20notebook" style="margin-right: 10px;"/>
+<img height="170em" src="https://awesome-github-stats.azurewebsites.net/user-stats/MatheusOtenio?cardType=github&theme=great-gatsby"/>
 
 </div>
 
