@@ -1,4 +1,3 @@
-
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 <div align="center">
@@ -9,17 +8,15 @@
     
 <br/><br/>
 
-### ❁Acesse meu [Portfólio](https://portfolio-matheus-otenio.vercel.app/) Para saber mais sobre mim!❁
-
+### ❁Access my [Portfolio](https://portfolio-matheus-otenio.vercel.app/) to learn more about me!❁
 
 ###
 
-Olá, meu nome é Matheus Otenio. Sou engenheiro da computação e desenvolvedor full stack, com forte interesse em inteligência artificial e desenvolvimento de sistemas. Busco constantemente aprender e inovar, explorando novas tecnologias e metodologias para criar soluções eficientes. Meu foco é desenvolver códigos que equilibrem as necessidades dos usuários e os objetivos estratégicos da empresa.
-
+Hello, my name is Matheus Otenio. I am a computer engineer and full-stack developer with a strong interest in artificial intelligence and system development. I am constantly seeking to learn and innovate, exploring new technologies and methodologies to create efficient solutions. My focus is on developing code that balances user needs with the company's strategic goals.
 
 <div>
   
-## 💻 Linguagens/Frameworks que Trabalho:
+## 💻 Languages/Frameworks I Work With:
   
   <div>
     <img align="left" alt="Python" title="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -39,7 +36,7 @@ Olá, meu nome é Matheus Otenio. Sou engenheiro da computação e desenvolvedor
   
   <br/><br/><br/>
 
- ## 🗃️ Softwares/Serviços que Uso:
+ ## 🗃️ Software/Services I Use:
   
   <div>
     <img align="left" alt="VisualStudio" title="VisualStudio" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
@@ -50,21 +47,15 @@ Olá, meu nome é Matheus Otenio. Sou engenheiro da computação e desenvolvedor
     <img align="left" alt="Linux" title="Linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img align="left" alt="Figma" title="Figma" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
     <img align="left" alt="Canva" title="Canva" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-
   </div>
-  
   
   <br/><br/><br/>
   
- ## 📊 Estatísticas
+ ## 📊 Statistics
 <div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOtenio&layout=compact&custom_title=Tecnologias&langs_count=8&theme=slateorange&hide=html,jupyter%20notebook" />
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOtenio&layout=compact&custom_title=Technologies&langs_count=8&theme=slateorange&hide=html,jupyter%20notebook" />
   &nbsp;&nbsp;&nbsp;
  <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusOtenio&theme=slateorange"/>
-
-
-
 </div>
 </div>
-
 
