@@ -29,12 +29,14 @@ Hello, my name is Matheus Otenio. I am a computer engineer and full-stack develo
     <img align="left" alt="Node.js" title="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="left" alt="React.js" title="React.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
     <img align="left" alt="Next.js" title="Next.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-    <img align="left" alt="SQL" title="SQL" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg" />
+    <img align="left" alt="Angular" title="Angular" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
   </div>
   
   <br/><br/><br/>
+## 🗃️ Software/Services I Use:
+  
 
- ## 🗃️ Software/Services I Use:
+## 🗄️ Database:
   
   <div>
     <img align="left" alt="VisualStudio" title="VisualStudio" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
