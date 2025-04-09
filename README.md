@@ -39,7 +39,7 @@ Hello, my name is Matheus Otenio. I am a computer engineer and full-stack develo
 ## 🗄️ Database:  
 </div>
     <img align="left" alt="postgresql" title="postgresql" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-    <img align="left" alt="sqlite" title="sqlite" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+    <img align="left" alt="sqlite" title="sqlite" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-plain.svg" />
     <img align="left" alt="mysql" title="mysql" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
     <img align="left" alt="mongodb" title="mongodb" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 </div>
