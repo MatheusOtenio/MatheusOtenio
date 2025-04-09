@@ -43,8 +43,7 @@ Hello, my name is Matheus Otenio. I am a computer engineer and full-stack develo
     <img align="left" alt="sqlite" title="sqlite" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
     <img align="left" alt="mysql" title="mysql" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div>
-
- <br/><br/><br/>
+##
  
 ## 🗃️ Software/Services I Use:
   
