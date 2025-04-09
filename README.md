@@ -33,10 +33,11 @@ Hello, my name is Matheus Otenio. I am a computer engineer and full-stack develo
   </div>
   
   <br/><br/><br/>
-## 🗃️ Software/Services I Use:
-  
 
-## 🗄️ Database:
+## 🗄️ Database:  
+
+ <br/><br/><br/>
+## 🗃️ Software/Services I Use:
   
   <div>
     <img align="left" alt="VisualStudio" title="VisualStudio" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
@@ -57,5 +58,3 @@ Hello, my name is Matheus Otenio. I am a computer engineer and full-stack develo
   &nbsp;&nbsp;&nbsp;
  <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusOtenio&theme=slateorange"/>
 </div>
-</div>
-
