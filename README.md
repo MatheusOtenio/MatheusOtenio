@@ -33,6 +33,8 @@ Hello, my name is Matheus Otenio. I am a computer engineer and full-stack develo
     <img align="left" alt=".NET" title=".NET" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
     <img align="left" alt="TensorFlow" title="TensorFlow" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
   </div>
+  
+<br><br><br>
 
 ## 🗄️ Database:  
 </div>
@@ -42,6 +44,7 @@ Hello, my name is Matheus Otenio. I am a computer engineer and full-stack develo
     <img align="left" alt="mysql" title="mysql" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 </div>
 
+<br><br><br>
 
 ## 🗃️ Software/Services I Use:
   
@@ -55,6 +58,8 @@ Hello, my name is Matheus Otenio. I am a computer engineer and full-stack develo
     <img align="left" alt="Figma" title="Figma" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
     <img align="left" alt="Canva" title="Canva" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
   </div>
+
+<br><br><br>
 
  ## 📊 Statistics
 <div align="center">
