@@ -63,7 +63,7 @@ Hello, my name is Matheus Otenio. I am a computer engineer and full-stack develo
 <div align="center">
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOtenio&layout=compact&custom_title=Technologies&langs_count=8&theme=slateorange&hide=html,jupyter%20notebook,scss&v=1" />
   &nbsp;&nbsp;&nbsp;
- <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusOtenio&theme=slateorange"/>
+ <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusOtenio&theme=slateorange&v=1"/>
 </div>
 
 
