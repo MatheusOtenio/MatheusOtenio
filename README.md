@@ -21,13 +21,13 @@ Hello, my name is Matheus Otenio. I am a computer engineer and full-stack develo
     <img align="left" alt="CSS" title="CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align="left" alt="JavaScript" title="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="left" alt="TypeScript" title="TypeScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img align="left" alt="Python" title="Python" width="37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />     
+    <img align="left" alt="Python" title="Python" width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />     
     <br/><br/>
     <img align="left" alt="Node.js" title="Node.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="left" alt="React.js" title="React.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
     <img align="left" alt="Next.js" title="Next.js" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
     <img align="left" alt="Angular" title="Angular" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
-    <img align="left" alt="jupyter" title="jupyter" width="37px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
+    <img align="left" alt="jupyter" title="jupyter" width="39px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
   </div>
   
 <br><br>
