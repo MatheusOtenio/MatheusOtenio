@@ -64,7 +64,24 @@ Hello, my name is Matheus Otenio. I am a computer engineer and full-stack develo
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOtenio&layout=compact&custom_title=Technologies&langs_count=8&theme=slateorange&hide=html,jupyter%20notebook,scss&v=2" />
   &nbsp;&nbsp;&nbsp;
  <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusOtenio&theme=slateorange&v=2"/>
-
 </div>
+
+<p align="center">
+  <a href="https://github.com/dimkagithub">
+    <img src="https://badges.pufler.dev/visits/dimkagithub/dimkagithub?logo=GitHub">
+  </a>
+  <a href="https://github.com/dimkagithub">
+    <img src="https://badges.pufler.dev/years/dimkagithub?logo=GitHub">
+  </a>
+  <a href="https://github.com/dimkagithub?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/dimkagithub?logo=GitHub">
+  </a>
+  <a href="https://github.com/dimkagithub">
+    <img src="https://badges.pufler.dev/commits/monthly/dimkagithub?logo=GitHub">
+  </a>
+    <a href="https://github.com/dimkagithub">
+    <img src="https://badges.pufler.dev/commits/yearly/dimkagithub?logo=GitHub">
+  </a>
+</p>
 
 
