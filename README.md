@@ -67,21 +67,11 @@ Hello, my name is Matheus Otenio. I am a computer engineer and full-stack develo
 </div>
 
 <p align="center">
-  <a href="https://github.com/dimkagithub">
-    <img src="https://badges.pufler.dev/visits/dimkagithub/dimkagithub?logo=GitHub">
-  </a>
-  <a href="https://github.com/dimkagithub">
-    <img src="https://badges.pufler.dev/years/dimkagithub?logo=GitHub">
-  </a>
-  <a href="https://github.com/dimkagithub?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/dimkagithub?logo=GitHub">
-  </a>
-  <a href="https://github.com/dimkagithub">
-    <img src="https://badges.pufler.dev/commits/monthly/dimkagithub?logo=GitHub">
-  </a>
-    <a href="https://github.com/dimkagithub">
-    <img src="https://badges.pufler.dev/commits/yearly/dimkagithub?logo=GitHub">
-  </a>
+    <img src="https://badges.pufler.dev/visits/MatheusOtenio/MatheusOtenio?logo=GitHub">
+    <img src="https://badges.pufler.dev/years/MatheusOtenio?logo=GitHub">
+    <img src="https://badges.pufler.dev/repos/MatheusOtenio?logo=GitHub">
+    <img src="https://badges.pufler.dev/commits/monthly/MatheusOtenio?logo=GitHub">
+    <img src="https://badges.pufler.dev/commits/yearly/MatheusOtenio?logo=GitHub">
 </p>
 
 
