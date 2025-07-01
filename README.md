@@ -66,11 +66,4 @@ Hello, my name is Matheus Otenio. I am a computer engineer and full-stack develo
  <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusOtenio&theme=slateorange&v=2"/>
 </div>
 
-<p align="center">
-    <img src="https://badges.pufler.dev/repos/MatheusOtenio?logo=GitHub&v=2">
-    <img src="https://badges.pufler.dev/visits/MatheusOtenio/MatheusOtenio?logo=GitHub&v=2">
-    <img src="https://badges.pufler.dev/commits/monthly/MatheusOtenio?logo=GitHub&v=2">
-    <img src="https://badges.pufler.dev/commits/yearly/MatheusOtenio?logo=GitHub&v=2">
-</p>
-
 
