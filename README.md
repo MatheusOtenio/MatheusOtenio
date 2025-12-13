@@ -61,9 +61,9 @@ Hello, my name is Matheus Otenio. I am a computer engineer and full-stack develo
 
  ## 📊 Statistics
 <div align="center">
-  <img height="190em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusOtenio&theme=slateorange&v=2" />
+  <img height="190em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusOtenio&theme=slateorange" />
   &nbsp;&nbsp;&nbsp;
- <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusOtenio&theme=slateorange&v=2"/>
+ <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusOtenio&theme=slateorange"/>
 </div>
 
 
