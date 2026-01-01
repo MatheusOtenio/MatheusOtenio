@@ -30,7 +30,7 @@ Hello, my name is Matheus Otenio. I am a computer engineer and full-stack develo
 </p>
 
   
-<br><br>
+<br>
 
 ## 🗄️ Database & DevOps: 
 </div>
