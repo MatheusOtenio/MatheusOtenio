@@ -77,7 +77,7 @@ I’m Matheus Otenio, a computer engineer and full-stack developer driven by a p
   <a href="https://portfolio-matheus-otenio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-34D058?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:seuemail@example.com">
+  <a href="matheus.otenio843@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
