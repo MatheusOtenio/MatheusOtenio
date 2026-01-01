@@ -64,8 +64,10 @@ I’m Matheus Otenio, a computer engineer and full-stack developer driven by a p
 <br>
 
  ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-otenio/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.otenio/)
-[![Lattes](https://img.shields.io/badge/Lattes-003A70?style=for-the-badge&logo=book&logoColor=white)](https://lattes.cnpq.br/9418482544132610)
-[![Portfolio](https://img.shields.io/badge/Portfolio-34D058?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-matheus-otenio.vercel.app/)
+<p align="left">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Lattes-003A70?style=for-the-badge&logo=book&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Portfolio-34D058?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
