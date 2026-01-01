@@ -7,9 +7,11 @@
 </div>
             
 <p align="center">
+  ❁Access my 
   <a href="https://portfolio-matheus-otenio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-34D058?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-34D058?style=flat-square&logo=vercel&logoColor=white" />
   </a>
+  to learn more about me!❁
 </p>
 
             
