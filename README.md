@@ -10,7 +10,7 @@
             
 ###
 
-Hello, my name is Matheus Otenio. I am a computer engineer and full-stack developer with a strong interest in artificial intelligence and system development. I am constantly seeking to learn and innovate, exploring new technologies and methodologies to create efficient solutions. My focus is on developing code that balances user needs with the company's strategic goals.
+I’m Matheus Otenio, a computer engineer and full-stack developer driven by a practical obsession: turning ideas into dependable, user-friendly products. I enjoy crafting intuitive interfaces and the underlying systems that keep them fast and resilient, choosing approaches that scale with real business needs.
 
 <div>
   
@@ -61,8 +61,7 @@ Hello, my name is Matheus Otenio. I am a computer engineer and full-stack develo
   &nbsp;&nbsp;&nbsp;
  <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MatheusOtenio&theme=slateorange&v=2"/>
 </div>
-
-<br><br>
+<br>
 
  ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-otenio/)
