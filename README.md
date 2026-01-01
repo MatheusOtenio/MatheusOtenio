@@ -69,6 +69,5 @@ Hello, my name is Matheus Otenio. I am a computer engineer and full-stack develo
 <br><br>
 
  ## 🌐 Connect with Me
-<div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-otenio/)
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-otenio/)
+
