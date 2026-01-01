@@ -68,4 +68,5 @@ Hello, my name is Matheus Otenio. I am a computer engineer and full-stack develo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-otenio/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.otenio/)
 [![Lattes](https://img.shields.io/badge/Lattes-003A70?style=for-the-badge&logo=book&logoColor=white)](https://lattes.cnpq.br/9418482544132610)
+[![Portfolio](https://img.shields.io/badge/Portfolio-34D058?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-matheus-otenio.vercel.app/)
 
