@@ -59,7 +59,6 @@ I’m Matheus Otenio, a computer engineer and full-stack developer driven by a p
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=MatheusOtenio&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
-<br>
 
  ## 🌐 Connect with Me
 <p align="left">
