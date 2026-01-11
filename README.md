@@ -59,9 +59,9 @@ I’m Matheus Otenio, a computer engineer and full-stack developer driven by a p
 <div align="center"> 
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=MatheusOtenio&theme=github_dark" />
   <br/> <br/> 
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MatheusOtenio&layout=compact&theme=github_dark&hide=html,jupyter%20notebook&card_width=400" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MatheusOtenio&layout=compact&theme=github_dark&hide=html,jupyter%20notebook&card_width=300" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=MatheusOtenio&show_icons=true&theme=github_dark" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=MatheusOtenio&show_icons=true&theme=github_dark&card_width=300" />
 </div>
 
  ## 🌐 Connect with Me
