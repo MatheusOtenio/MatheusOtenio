@@ -56,8 +56,12 @@ I’m Matheus Otenio, a computer engineer and full-stack developer driven by a p
 <br>
 
  ## 📊 Statistics
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MatheusOtenio&theme=dark&hide_border=true" alt="GitHub Streak" />
+<div align="center"> 
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=MatheusOtenio&theme=github_dark" />
+  <br/> <br/> 
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MatheusOtenio&layout=compact&theme=github_dark&hide=html,jupyter%20notebook&card_width=400" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=MatheusOtenio&show_icons=true&theme=github_dark" />
 </div>
 
  ## 🌐 Connect with Me
