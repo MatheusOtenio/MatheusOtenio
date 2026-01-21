@@ -10,7 +10,7 @@
             
 ###
 
-I’m Matheus Otenio, a computer engineer and full-stack developer driven by a practical obsession: turning ideas into dependable, user-friendly products. I enjoy crafting intuitive interfaces and the underlying systems that keep them fast and resilient, choosing approaches that scale with real business needs.
+I'm Matheus Otenio — an adaptable, efficiency-focused software engineer who turns ideas into end-to-end products, crafting polished interfaces and resilient systems that ship quickly through automation and smart tooling.
 
 <div>
   
