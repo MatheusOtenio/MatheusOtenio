@@ -24,8 +24,9 @@ I'm Matheus Otenio — an adaptable, efficiency-focused software engineer who tu
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/FastAPI-0B3B3C?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/FastAPI-0B3B3C?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/pytest-1F2937?style=for-the-badge&logo=pytest&logoColor=0A9EDC" />
 
 </p>
