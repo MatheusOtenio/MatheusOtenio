@@ -13,48 +13,43 @@
 I'm Matheus Otenio — an adaptable, efficiency-focused software engineer who turns ideas into end-to-end products, crafting polished interfaces and resilient systems that ship quickly through automation and smart tooling.
 
 <div>
-  
-## 💻 Languages/Frameworks I Work With:
-<p align="left">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/TypeScript-2F6DB3?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 
+## 🛠️ Tech Stack & Skills
+
+#### Primary Focus (Fullstack Java & React)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />&nbsp;
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />&nbsp;
 </p>
 
+#### Backend, Persistence & Testing
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/FastAPI-0B3B3C?style=for-the-badge&logo=fastapi&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/pytest-1F2937?style=for-the-badge&logo=pytest&logoColor=0A9EDC" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;
+  <img src="https://img.shields.io/badge/Flyway-007ACC?style=for-the-badge&logoColor=white" alt="Flyway" />&nbsp;
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" />&nbsp;
+  <img src="https://img.shields.io/badge/SpringSec-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>&nbsp;
+  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
+</p>
 
+#### Frontend & UI/UX
+<p align="left">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>&nbsp;
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>&nbsp;
 </p>
-<br>
 
-## 🗄️ Database & DevOps: 
+#### Infrastructure & Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>&nbsp;
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>&nbsp;
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>&nbsp;
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />&nbsp;
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>&nbsp;
 </p>
-<br>
-
-## 🗃️ Software/Services I Use:
-  
-<p align="left">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-</p>
-<br>
 
  ## 📊 Statistics
 <div align="center"> 
@@ -68,22 +63,15 @@ I'm Matheus Otenio — an adaptable, efficiency-focused software engineer who tu
  ## 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/matheus-otenio/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/m.otenio/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://lattes.cnpq.br/9418482544132610">
-    <img src="https://img.shields.io/badge/Lattes-003A70?style=for-the-badge&logo=book&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-
+    <img src="https://img.shields.io/badge/Lattes-003A70?style=for-the-badge&logo=book&logoColor=white" /></a>&nbsp;&nbsp;
   <a href="https://portfolio-matheus-otenio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-34D058?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:matheus.otenio843@gmail.com">
+    <img src="https://img.shields.io/badge/Portfolio-34D058?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="mailto:matheus.otenio843@gmail.com">
     <img src="https://img.shields.io/badge/matheus.otenio843@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
-
-
-
 
