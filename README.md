@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=282828&height=100&section=header" width="100%" />
+
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 <div align="center">
@@ -8,7 +10,7 @@
             
 ###
 
-I'm Matheus Otenio — an adaptable, efficiency-focused software engineer who turns ideas into end-to-end products, crafting polished interfaces and resilient systems that ship quickly through automation and smart tooling.
+I’m Matheus Otenio, a backend-focused software engineer building scalable APIs and reliable systems, with the flexibility to work across the frontend when needed. I focus on pragmatic engineering, automation, and clarity to deliver end-to-end products efficiently.
 
 <div>
 
@@ -64,4 +66,4 @@ I'm Matheus Otenio — an adaptable, efficiency-focused software engineer who tu
     <img src="https://img.shields.io/badge/matheus.otenio843@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=282828&height=100&section=footer" width="100%">
