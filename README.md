@@ -50,18 +50,6 @@ I’m Matheus Otenio, a backend-focused software engineer building scalable APIs
 </p>
 
 
- ## 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/matheus-otenio/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/m.otenio/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://lattes.cnpq.br/9418482544132610">
-    <img src="https://img.shields.io/badge/Lattes-003A70?style=for-the-badge&logo=book&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="https://portfolio-matheus-otenio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-34D058?style=for-the-badge&logo=vercel&logoColor=white" /></a>&nbsp;&nbsp;
-  <a href="mailto:matheus.otenio843@gmail.com">
-    <img src="https://img.shields.io/badge/matheus.otenio843@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+ ## 
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=282828&height=100&section=footer" width="100%">
