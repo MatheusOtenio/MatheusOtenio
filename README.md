@@ -70,9 +70,12 @@ I’m Matheus Otenio, a backend-focused software engineer who enjoys designing A
   </div>
 </details>
 <details>
-  <summary><b>3D Graphics</b></summary>
-  
+  <summary><b>3D Contribution Graph</b></summary>
+
+![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
+
 </details>
+
 
 
 </p>
