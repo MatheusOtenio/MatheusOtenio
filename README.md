@@ -76,7 +76,12 @@ I’m Matheus Otenio, a backend-focused software engineer who enjoys designing A
 
 </details>
 
+<br/>
 
+***
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/matheus-otenio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2E7D32?style=for-the-badge)](https://portfolio-matheus-otenio.vercel.app/)
+[![AtCoder](https://img.shields.io/badge/AtCoder-6D4C41?style=for-the-badge)](https://atcoder.jp/users/MatheusOtenio)
+[![Lattes](https://img.shields.io/badge/Lattes-005CA9?style=for-the-badge)](http://lattes.cnpq.br/9418482544132610)
 
-</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=282828&height=100&section=footer" width="100%">
