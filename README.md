@@ -4,52 +4,76 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&size=25&duration=2000&pause=1000&color=22C55E&center=true&width=500&lines=%E2%8B%85%CB%9A%E2%82%8A%E2%80%A7+%E0%AC%B3+%E2%80%A7%E2%82%8A%CB%9A+%E2%8B%85Hi%2C+i%C2%B4m+Matheus%C2%B0%E2%80%A7+%F0%93%86%9D+%F0%93%86%9F+%F0%93%86%9E+%C2%B7;%E2%8B%86%EF%BD%A1%C2%B0%E2%80%A2%E2%98%81%EF%B8%8EI%C2%B4m+a+Software+Engineer%E2%8B%86.%E0%B3%83%E0%BF%94%E2%98%81%EF%B8%8E+%DD%81+%CB%96*;%EF%AE%A9%D9%A8%D9%80%EF%AE%A9%EF%AE%A9%D9%A8%D9%80Built+to+last%EF%AE%A9%D9%A8%D9%80%EF%AE%A9%EF%AE%A9%D9%A8%D9%80" alt="Typing SVG" /></a>
   </a>
 </div>
-            
-###
-
-I’m Matheus Otenio, a backend-focused software engineer building scalable APIs and reliable systems, with the flexibility to work across the frontend when needed. I focus on pragmatic engineering, automation, and clarity to deliver end-to-end products efficiently.
-
+I’m Matheus Otenio, a backend-focused software engineer who enjoys designing APIs grounded in real business needs and clear system structure. I care about maintainability and automation, and I like turning loosely defined requirements into reliable, well-organized solutions. While my focus is on backend and system design, I’m comfortable contributing to the frontend when it helps deliver a better product.
 <div>
 
-## 🛠️ Tech Stack & Skills
+## 🖳 Tech Stacks & Tools
 
-#### Primary Focus (Fullstack Java & React)
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />&nbsp;
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />&nbsp;
-</p>
+<details>
+  <summary><b>Java & Spring Ecosystem</b></summary>
+  <br />
+  <p align="left">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+    <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
+  </p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway" />
+    <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" />
+    <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security"/>
+  </p>  
+</details>
 
-#### Backend, Persistence & Testing
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;
-  <img src="https://img.shields.io/badge/Flyway-007ACC?style=for-the-badge&logoColor=white" alt="Flyway" />&nbsp;
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" />&nbsp;
-  <img src="https://img.shields.io/badge/SpringSec-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>&nbsp;
-  <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="OpenAPI" />
-</p>
+<details>
+  <summary><b>TypeScript & Node.js Ecosystem</b></summary>
+  <br />
+  <p align="left">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  </p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+    <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
+    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  </p>
+</details>
 
-#### Frontend & UI/UX
-<p align="left">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>&nbsp;
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>&nbsp;
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />&nbsp;
-</p>
+<details>
+  <summary><b>Databases, Infra & Common Tools</b></summary>
+  <br />
+  <p align="left">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  </p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  </p>
+  <p align="left">
+    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
+    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black" alt="Swagger" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  </p>
+</details>
 
-#### Infrastructure & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>&nbsp;
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>&nbsp;
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>&nbsp;
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />&nbsp;
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>&nbsp;
-</p>
+## 𓂃✍︎ GitHub Activity
+
+<details>
+  <summary><b>Github Stats & Languages</b></summary>
+  <br />
+  <div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusOtenio&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="Github Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOtenio&layout=compact&langs_count=8&theme=dracula&hide_border=true&hide=html,jupyter%20notebook" alt="Top Languages" />
+  </div>
+</details>
+<details>
+  <summary><b>3D Graphics</b></summary>
+  
+</details>
 
 
- #
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=282828&height=100&section=footer" width="100%">
