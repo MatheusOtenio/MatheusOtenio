@@ -75,10 +75,10 @@ I’m Matheus Otenio, a backend-focused software engineer who enjoys designing A
 ![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </details>
-
 <br/>
 
-***
+##
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/matheus-otenio/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2E7D32?style=for-the-badge)](https://portfolio-matheus-otenio.vercel.app/)
 [![AtCoder](https://img.shields.io/badge/AtCoder-6D4C41?style=for-the-badge)](https://atcoder.jp/users/MatheusOtenio)
