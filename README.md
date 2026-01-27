@@ -69,13 +69,14 @@ I’m Matheus Otenio, a backend-focused software engineer who enjoys designing A
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOtenio&layout=compact&langs_count=8&theme=dracula&hide_border=true&hide=html,jupyter%20notebook" alt="Top Languages" />
   </div>
 </details>
+<br/>
+
 <details>
   <summary><b>3D Contribution Graph</b></summary>
 
 ![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 
 </details>
-<br/>
 
 ##
 
