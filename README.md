@@ -62,17 +62,20 @@ I’m Matheus Otenio, a backend-focused software engineer who enjoys designing A
 ## 𓂃✍︎ GitHub Activity
 
 <details>
-  <summary><b>Github Stats & Languages</b></summary>
-  <br />
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusOtenio&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" alt="Github Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOtenio&layout=compact&langs_count=8&theme=dracula&hide_border=true&hide=html,jupyter%20notebook" alt="Top Languages" />
-  </div>
+<summary><b>My Selected Projects</b></summary>
+<br />
+
+| Project & Focus | Engineering Decisions |
+| :--- | :--- |
+| [**NexusFlow**](https://github.com/MatheusOtenio/nexusflow-reimbursement-system)<br>*(Corporate Reimbursement)* | • **State Machine** implementation ensuring consistency in status transitions.<br>• **Domain Isolation** decoupling business rules from infrastructure.<br>• Secure persistence via versioned migrations. |
+| [**Aegis**](https://github.com/MatheusOtenio/aegis-financial-architecture)<br>*(Financial System)* | • **BFF & Batch:** Clear separation between real-time orchestration and high-volume processing.<br>• **Idempotency** mechanisms to prevent financial duplication.<br>• Architecture designed for auditability and scale. |
+| [**McDonald’s Kiosk**](https://github.com/MatheusOtenio/mc-donalds-autoatendimento)<br>*(UX & Frontend)* | • Predictable **State Management** architecture.<br>• UX-driven design focused on friction reduction and visual hierarchy.<br>• End-to-end flow simulation (order to confirmation). |
+
 </details>
-<br/>
 
 <details>
   <summary><b>3D Contribution Graph</b></summary>
+</br>
 
 ![3D Contributions](./profile-3d-contrib/profile-night-rainbow.svg)
 
